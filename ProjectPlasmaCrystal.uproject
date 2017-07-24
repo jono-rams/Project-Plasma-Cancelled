@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.15",
+	"EngineAssociation": "4.16",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -41,10 +41,6 @@
 		{
 			"Name": "AndroidMoviePlayer",
 			"Enabled": false
-		},
-		{
-			"Name": "Phya",
-			"Enabled": true
 		},
 		{
 			"Name": "SoundVisualizations",
