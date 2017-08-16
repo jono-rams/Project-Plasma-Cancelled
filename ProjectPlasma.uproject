@@ -155,6 +155,10 @@
 		{
 			"Name": "MfMedia",
 			"Enabled": true
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
