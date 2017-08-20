@@ -1,7 +1,8 @@
 Binaries
 DerivedDataCache
 Intermediate
-Saved
+Saved 
+Plugins
 *.VC.db
 *.opensdf
 *.opendb
