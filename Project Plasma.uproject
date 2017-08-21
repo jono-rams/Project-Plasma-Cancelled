@@ -159,6 +159,30 @@
 		{
 			"Name": "FMODStudio",
 			"Enabled": false
+		},
+		{
+			"Name": "Composure",
+			"Enabled": true
+		},
+		{
+			"Name": "LensDistortion",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleCloudMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "CodeView",
+			"Enabled": true
+		},
+		{
+			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "SubversionSourceControl",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
