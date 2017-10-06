@@ -26,7 +26,7 @@
 		},
 		{
 			"Name": "RuntimeMeshComponent",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ad0b45a6a31e462aba7cf7c790a9c125"
 		},
 		{
@@ -96,7 +96,7 @@
 		},
 		{
 			"Name": "LogitechG",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/168a361cd05943358dff438115c5d1c2"
 		},
 		{
