@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.18",
+	"EngineAssociation": "{5938EB8F-4C4F-BF2D-4C34-4F921912D56D}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -18,11 +18,6 @@
 			"Name": "SCUE4",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cff7ca410375488fb0d13221b7446041"
-		},
-		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
 		},
 		{
 			"Name": "RuntimeMeshComponent",
@@ -145,19 +140,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "StereoPanorama",
-			"Enabled": true
-		},
-		{
 			"Name": "MobilePatchingUtils",
 			"Enabled": false
 		},
 		{
 			"Name": "MfMedia",
-			"Enabled": true
-		},
-		{
-			"Name": "FMODStudio",
 			"Enabled": true
 		},
 		{
